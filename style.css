@@ -179,6 +179,7 @@ input[type="text"] {
     padding: 15px;
     border: none;
     background: #c3e4e2;
+    border-radius: 5px;
 }
 
 .contuct_from {
@@ -187,6 +188,7 @@ input[type="text"] {
     width: 60%;
     padding: 105px;
     margin-left: 255px;
+    border-radius: 10px;
 }
 
 footer {
