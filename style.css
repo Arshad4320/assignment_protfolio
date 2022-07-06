@@ -79,14 +79,14 @@ body {
 
 .common-style:hover {
     border: 3px solid red;
-    background: #f6c0c0;
+    background: #fbbfae;
     color: red;
     transition: all 0.3s;
 }
 
 .count-box-2 {
     border: 3px solid red;
-    background: #f6c0c0;
+    background: #fbbfae;
     color: red;
 }
 
@@ -176,7 +176,7 @@ span {
 }
 
 input[type="text"] {
-    padding: 15px;
+    padding: 17px;
     border: none;
     background: #c3e4e2;
     border-radius: 5px;
@@ -189,6 +189,34 @@ input[type="text"] {
     padding: 105px;
     margin-left: 255px;
     border-radius: 10px;
+}
+
+.Work_stetus {}
+
+.working_card {
+    display: flex;
+    justify-content: center;
+
+}
+
+.working_content {
+    width: 26%;
+    background: #e7f9f7;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 11px -11px;
+}
+
+.working_content img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-content {
+    color: gray;
+    padding: 0px 30px;
+    text-align: justify;
+    font-size: 20px;
 }
 
 footer {
