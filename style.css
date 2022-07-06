@@ -77,12 +77,7 @@ body {
     border-radius: 5px;
 }
 
-.common-style:hover {
-    border: 3px solid red;
-    background: #fbbfae;
-    color: red;
-    transition: all 0.3s;
-}
+
 
 .count-box-2 {
     border: 3px solid red;
