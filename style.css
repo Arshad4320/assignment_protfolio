@@ -170,6 +170,13 @@ span {
     margin-bottom: 35px;
 }
 
+.input-box input {
+    background: none;
+    border-bottom: 2px solid gray;
+    width: 600px;
+    text-align: center;
+}
+
 input[type="text"] {
     padding: 17px;
     border: none;
